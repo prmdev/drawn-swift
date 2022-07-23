@@ -2,8 +2,8 @@
 //  GAnalyticsHelper.swift
 //  Drawn
 //
-//  Created by Aaron Sky on 11/14/15.
-//  Copyright © 2015 Aaron Sky. All rights reserved.
+//  Created by prmdev on 11/14/15.
+//  Copyright © 2015 prmdev. All rights reserved.
 //
 
 import Foundation
